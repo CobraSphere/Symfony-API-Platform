@@ -19,9 +19,6 @@ and [Kubernetes](https://api-platform.com/docs/deployment/kubernetes).
 * Easily add **[OAuth](https://oauth.net/) authentication**.
 * Create specs and tests with **[a developer friendly API testing tool](https://api-platform.com/docs/distribution/testing/)**.
 
-[![GitHub Actions](https://github.com/api-platform/core/workflows/CI/badge.svg)](https://github.com/api-platform/core/actions?workflow=CI)
-[![Codecov](https://codecov.io/gh/api-platform/core/branch/master/graph/badge.svg)](https://codecov.io/gh/api-platform/core/branch/master)
-
 The official project documentation is available **[on the API Platform website](https://api-platform.com)**.
 
 API Platform embraces open web standards and the
@@ -43,7 +40,7 @@ It means that you can:
 
 ## Install
 
-[Read the official "Getting Started" guide](https://api-platform.com/docs/distribution).
+[Read the official "Getting Started" guide](https://api-platform.com/docs/distribution/).
 
 ## Credits
 
